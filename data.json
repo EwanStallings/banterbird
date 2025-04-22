@@ -1,14 +1,10 @@
 [
     {
-        "username": "admin",
-        "message": "Welcome to Banterbird!"
+        "username": "Tiger",
+        "message": "The answer is B."
     },
     {
-        "username": "chad",
-        "message": "Excited to be here!"
-    },
-    {
-        "username": "bob",
-        "message": "Just joined. Let’s tweet!"
+        "username": "Ewan",
+        "message": "Quick! What is the answer for AP Chem question 2?"
     }
 ]
