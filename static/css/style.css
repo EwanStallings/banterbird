@@ -1,0 +1,49 @@
+body {
+    background-image: url("https://davidshepherd.org/wp-content/uploads/2023/05/tiger-and-cub-scaled.jpg");
+    background-size: 1600px, 1500px;
+    font-family: "Dosis", sans-serif;
+    font-weight: weight;
+    font-style: normal;
+}
+.box{
+    border: 5px dashed black;
+    width: 400px;
+    padding: 25px;
+    margin: auto;
+    background-color: #ffb274;
+}
+.center{
+    text-align: center;
+}
+#feed {
+    margin-top: 30px;
+}
+#header1{
+    text-align: center;
+}
+#talk{
+    background-color: rgb(255, 255, 255);
+    font-family: "Dosis", sans-serif;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    position: relative;
+}
+#header1{
+    text-align: center;
+    background-color: #ffffff;
+}
+.input{
+    background-color: #000000;
+    font-family: "Dosis", sans-serif;
+    font-weight: weight;
+    font-style: normal;
+}
+#head{
+    text-align: center;
+    background-color: #ffffff;
+}
+#postInput{
+    text-align: center;
+    position: relative;
+}
